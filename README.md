@@ -238,4 +238,4 @@ Dengan ini kita dapat menarik kesimpulan bahwa toko ini dapat menerapkan diskon 
 
 ## Deployment
 
-Link Streamlit:
+Link Streamlit: https://app-bread-basket-8pi7zwrwk8lrdmybpxmvtg.streamlit.app/
